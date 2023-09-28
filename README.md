@@ -60,20 +60,21 @@ Start the Client
 ![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(524).png)
 ![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(525).png)
 
-### Real Time Chatting with Typing indicators
+### Real Time Chatting 
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(526).png)
 
 ### One to One chat
-
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(527).png)
 ### Search Users
-
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(528).png)
 ### Create Group Chats
-
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(529).png)
 ### Notifications 
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(530).png)
 
 ### Add or Remove users from group
-
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(531).png)
 ### View Other user Profile
-
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(532).png)
 ## Made By
-
-(https://github.com/SriMukheshSuru)
+- [@SriMukheshSuru](https://github.com/SriMukheshSuru)
