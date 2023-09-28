@@ -54,11 +54,11 @@ Start the Client
 ```
 
   
-# Features
-we can create Group chats 
-we can create one on one chat 
+# Features 
 
 ### Authenticaton
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(524).png)
+![](https://github.com/SriMukheshSuru/Olalaa-LetsChat/blob/main/screenshots/Screenshot%20(525).png)
 
 ### Real Time Chatting with Typing indicators
 
